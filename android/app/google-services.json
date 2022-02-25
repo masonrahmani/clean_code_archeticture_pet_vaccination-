@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524162755689",
+    "firebase_url": "https://socialmedia-8cec2-default-rtdb.firebaseio.com",
+    "project_id": "socialmedia-8cec2",
+    "storage_bucket": "socialmedia-8cec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524162755689:android:a0bd96ed2c5295b088c6f8",
+        "android_client_info": {
+          "package_name": "com.example.mynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524162755689-n0pj5886b581mhso2mhsid97mo2g1jla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOnob_NtjFuIaU7oSRMi0OLZKx8UNLzpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524162755689-n0pj5886b581mhso2mhsid97mo2g1jla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
