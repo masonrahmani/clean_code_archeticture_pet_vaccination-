@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Clean Archeticture (Flutter Firebase)
 
-| col 1      | col 2      |
+
 |------------|-------------|
 | <img src="https://github.com/masonrahmani/clean_code_archeticture_pet_vaccination-/blob/main/WhatsApp%20Image%202022-02-26%20at%209.08.15%20PM%20(1).jpeg" width="250"> | <img src="https://github.com/masonrahmani/clean_code_archeticture_pet_vaccination-/blob/main/WhatsApp%20Image%202022-02-26%20at%209.08.15%20PM.jpeg" width="250"> |
 
